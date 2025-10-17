@@ -1,0 +1,19 @@
+Title: European Commission launches Apply AI & AI in Science strategies
+Date: 2025‑10‑08
+Source: European Commission / Digital Strategy
+URL: https://digital-strategy.ec.europa.eu/en/policies/apply-ai
+
+## Strategy Overview  
+On the same day as the Service Desk announcement, the Commission unveiled **two complementary strategies**: **Apply AI** and **AI in Science**. Their purpose is to support AI deployment in industry while strengthening the EU’s scientific leadership in trustworthy AI.
+
+### Apply AI Strategy  
+Apply AI is a sectoral and adoption-focused strategy that targets **Small & Medium-sized Enterprises (SMEs)** and public institutions. Its goals include encouraging an “AI-first” mindset, providing technical and financial support, launching **sectoral flagship projects**, and promoting **European tech sovereignty**. It also establishes the **Apply AI Alliance** (a multi-stakeholder forum) and an **AI Observatory** to monitor trends and impact.
+
+### AI in Science Strategy & RAISE  
+The **AI in Science** strategy is tailored to research and academia. It introduces **RAISE** (Resource for AI Science in Europe), a virtual institute pooling compute, data, and governance support across disciplines. It promotes adoption of AI in science, cross-disciplinary collaboration, and ethical oversight.
+
+## Funding & Implementation  
+The strategies draw on EU programs like **Horizon Europe** and **Digital Europe**, mobilizing over **€1 billion** for infrastructure, pilot projects, and capacity building. The Commission emphasizes complementary national and private-sector contributions.
+
+## Strategic Significance & Risks  
+These initiatives represent a push toward **tech autonomy**—reducing dependency on external providers and strengthening in-house European AI capacity—while ensuring ethical use and compliance with the AI Act.

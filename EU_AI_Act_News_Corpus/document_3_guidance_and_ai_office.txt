@@ -1,0 +1,23 @@
+Title: EU AI Office, guidance & regulatory frameworks
+Date: 2025
+Source: European Commission / Digital Strategy
+URL: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+
+## The European AI Office  
+The **European Artificial Intelligence Office** (AI Office), under DG CONNECT, is the body for supervising and coordinating the implementation of the AI Act, especially for **General-Purpose AI (GPAI)** systems. Its role covers enforcement, policy alignment, stakeholder dialogue, and oversight.
+
+### Responsibilities & Functions  
+- Supervision of GPAI providers  
+- Issuing guidance and templates for compliance  
+- Hosting consultations and feedback loops  
+- Coordinating with national authorities  
+- Monitoring developments in trustworthy AI  
+
+## Regulatory Timeline  
+The AI Act entered into force on 1 August 2024. Early governance rules apply immediately; high-risk system obligations phase in by **2 August 2027**. The AI Office coordinates during this transition, aligning guidance and enforcing compliance mechanisms.
+
+## Compliance Support Infrastructure  
+The AI Office works with the **Service Desk** and **Single Information Platform** to share documents, respond to queries, and maintain consistent messaging. It ensures that institutional guidance aligns with tools like the **Compliance Checker** and **AI Act Explorer**.
+
+## Challenges  
+Ensuring clarity, consistency, innovation balance, and effective oversight of general-purpose AI remain key challenges for the AI Office.

@@ -1,0 +1,25 @@
+Title: Commission launches AI Act Service Desk & Single Information Platform
+Date: 2025‑10‑08
+Source: European Commission / Digital Strategy
+URL: https://digital-strategy.ec.europa.eu/en/news/commission-launches-ai-act-service-desk-and-single-information-platform-support-ai-act
+
+## Introduction  
+On 8 October 2025, the European Commission announced the rollout of two pivotal tools designed to assist stakeholders in navigating the EU AI Act: the **AI Act Service Desk** and the **Single Information Platform**. These tools aim to reduce legal uncertainty, guide compliance, and centralize knowledge for firms, researchers, and member states.
+
+## Single Information Platform  
+The Single Information Platform is intended as a **central hub** consolidating all essential content related to the AI Act: official texts, legislative documents, annexes, recitals, national-level guidance, FAQs, and explanatory materials. Through this platform, users will access structured documentation, links to national authorities, and tailored resources relevant to compliance needs. It also embeds interactive utilities such as the **Compliance Checker**—a diagnostic tool that helps users assess whether their AI system meets criteria for obligations under the law—and the **AI Act Explorer**, a navigable tool that allows browsing chapters, articles, and recitals in a user-friendly interface.
+
+## AI Act Service Desk  
+The AI Act Service Desk functions as a **support channel**. Stakeholders (e.g., startups, public bodies, academic teams) can submit inquiries, request clarifications, or ask for guidance tailored to their context. Expert staff, working in cooperation with the European AI Office, will respond and help interpret the regulation’s obligations. This Service Desk is meant to complement the static content on the platform by offering real-time, context-aware responses.
+
+## Rollout & Timeline  
+The AI Act itself came into force on 1 August 2024, but many of its requirements, especially for high-risk systems, will phase in over time (full applicability by 2 August 2027). The new tools are part of a broader transition strategy to ensure that organizations have guidance during this rollout period.
+
+## Role in Compliance  
+These tools are designed to:
+- Reduce ambiguity for regulated entities  
+- Help organizations self-assess risk exposure  
+- Assist in connecting users to official guidance and legal texts  
+- Serve as a bridge between policy makers and real-world application  
+
+By centralizing both content and support, the Commission hopes to encourage smoother adoption of the AI Act across EU member states and reduce disparities in how organizations interpret it.

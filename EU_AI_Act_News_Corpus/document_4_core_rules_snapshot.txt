@@ -1,0 +1,21 @@
+Title: Snapshot of EU AI Act core rules & risk classification
+Date: 2025
+Source: EU AI Act / Digital Strategy
+URL: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+
+## Regulation Structure & Scope  
+The **EU Artificial Intelligence Act (Regulation 2024/1689)** sets harmonized rules across member states. It covers AI systems across sectors, except military and research exemptions.
+
+### Risk-Based Approach  
+- **Prohibited Practices**: manipulation, subliminal techniques, biometric social scoring  
+- **Minimal Risk AI**: basic transparency rules  
+- **High-Risk AI**: used in critical areas (healthcare, finance, employment, law enforcement)
+
+### Obligations for High-Risk Systems  
+High-risk systems must meet obligations: conformity assessment, documentation, human oversight, accuracy, and post-market monitoring.
+
+### Timeline & Enforcement  
+Prohibitions apply immediately; high-risk system rules take effect by **August 2027**. The **AI Office** oversees general-purpose AI systems, ensuring compliance.
+
+### Key Highlights  
+The AI Act establishes a global benchmark for AI regulation, balancing innovation and ethical use across Europe.
