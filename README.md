@@ -1,3 +1,5 @@
+> ⚠️ This repository has moved to [talks-and-workshops](https://github.com/TomaIjatomi/talks-and-workshops/tree/main/workshops/wai-chatbot-workshop).
+> 
 # Building LLM Chatbots: From Fundamentals to RAG
 
 This repository contains the complete code and presentation materials for the **"Building Chatbots with LLMs"** workshop, hosted by **Women in AI, Ireland** and sponsored by **EY**, held on **15 October 2025**.
